@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "78664630668",
+    "firebase_url": "https://personal-website-15cb0.firebaseio.com",
+    "project_id": "personal-website-15cb0",
+    "storage_bucket": "personal-website-15cb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78664630668:android:a6d9dc8a4e2e1cf7",
+        "android_client_info": {
+          "package_name": "com.umeshnalinde.githubpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78664630668-90gdu5f8vi3qoirk811us7ssggpbpjrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.umeshnalinde.githubpage",
+            "certificate_hash": "a0cf34f59e2d074ec60b675cbcf840fcf9328376"
+          }
+        },
+        {
+          "client_id": "78664630668-9uc3uof5rm6o13pjc9jrvr26lauehu4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3XqM9DEBnSJzRkhGYA-k20tW2T5qB8BY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78664630668-9uc3uof5rm6o13pjc9jrvr26lauehu4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
